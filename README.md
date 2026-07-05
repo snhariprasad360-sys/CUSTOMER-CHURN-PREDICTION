@@ -141,3 +141,6 @@ This project demonstrates the complete machine learning workflow for solving a r
 **Hari Prasad S N**
 
 Machine Learning Virtual Internship – CodSoft
+
+## License
+This project is developed for educational purposes as part of the CodSoft Machine Learning Internship.
